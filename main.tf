@@ -7,6 +7,7 @@ module "vpc" {
 }
 
 
+
 terraform {
   required_providers {
     aws = {
